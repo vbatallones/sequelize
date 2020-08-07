@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "seqeulize_project_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "seqeulize_project_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "seqeulize_project_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
